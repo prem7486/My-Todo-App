@@ -1,0 +1,10 @@
+.list-menu {
+  transition: width 0.3s ease-in-out; /* Smooth width transition */
+  overflow: hidden; /* Hide overflow content when menu is minimized */
+  background-color: #ffffff; /* Example background color */
+  color: rgb(0, 0, 0); /* Example text color */
+  box-shadow: 2px 0 5px #00000052; /* Add shadow */
+  z-index: 10;
+  margin: 0 auto;
+  
+}
